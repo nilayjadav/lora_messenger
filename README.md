@@ -48,7 +48,13 @@ _________________________
 - Onboard LED: GPIO 13
 
 ---
+## Sender 
+![LoRa_Sender](https://github.com/user-attachments/assets/72fb9b01-0f06-48ab-a663-9fcac79a75c4)
 
+## Receiver
+![LoRa_Rec](https://github.com/user-attachments/assets/182f4851-bab2-40f3-ba85-f15ad104b293)
+
+---
 ## 🚦 FreeRTOS Integration
 
 FreeRTOS is used for **non-blocking multitasking** on both ESP32 devices:
